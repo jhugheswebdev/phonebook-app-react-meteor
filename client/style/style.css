@@ -1,9 +1,24 @@
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.container {
+  padding-bottom: 30px;
+}
+
 .employee-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  padding-top: 60px;
 }
 
 .thumbnail {
   width: 300px;
+  background-color: rgb(87, 171, 200)
 }
