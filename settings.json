@@ -1,0 +1,7 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb://heezy:employeephonebook@ds157677.mlab.com:57677/employeephonebook"
+    }
+  }
+}
